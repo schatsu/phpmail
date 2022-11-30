@@ -1,2 +1,2 @@
 # phpmail
-# Sending mail using phpmailer
+## Sending mail using phpmailer
